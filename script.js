@@ -73,7 +73,7 @@ function genTable(){
 }
 
 
-// clear functions
+// clear function
 
 document.getElementById("clr").onclick = function(){
     document.getElementById("input").innerHTML = " ";
