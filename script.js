@@ -76,7 +76,7 @@ function genTable(){
 // clear function
 
 document.getElementById("clr").onclick = function(){
-    document.getElementById("input").innerHTML = " ";
+    document.getElementById("input").innerHTML = "";
 }
 
 
